@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**nickinagaki/nickinagaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 atualmente estou aprendendo html e css
+- 📫 como chegar ate mim? pelo meu email niickolasggimenez@gmail.com
+- ⚡ curiosidade, pereço bonzinho mas ja fiquei ate as 11 horas acordado sem a permissao da minha mae
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![](https://media.tenor.com/fdqGGPWt5moAAAAC/%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%B0.gif)
+
+
+
+
+
